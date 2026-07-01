@@ -41,7 +41,7 @@ Out of scope
 
 ## Construction
 
-[Fab package](fab/pico-dram-tester-rev2.zip)
+[Fab package](fab/pico-dram-tester-rev3.zip)
 
 [Schematic](pico-dram-tester.pdf)
 
